@@ -12,11 +12,11 @@ int main(){
         anos = 0;
         
         while(PA <= PB){
-            PA = (int)PA*(1+G1/100);
-            PB = (int)PB*(1+G2/100);
+            PA = (int) PA*(1 + G1/100);
+            PB = (int) PB*(1 + G2/100);
             anos ++;
         }
         printf("%d\n", anos);
     }
-    return 0;
+    return 0; 
 }
