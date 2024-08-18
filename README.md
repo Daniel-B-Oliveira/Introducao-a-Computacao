@@ -1,10 +1,10 @@
-#Objetivos: 
+Objetivos: 
 Dominar conceitos e técnicas de construção de algoritmos. Transformar problemas relacionados à área da estatística em algoritmos.
 Codificar algoritmos em programas baseados na linguagem procedimental C mediante uso de ferramentas de suporte como fluxograma e pseudocódigo.
 Dominar o uso de comandos básicos da linguagem C para codificar e compilar programas livres de erros.
 Gerar código-objeto a partir de um programa-fonte e código executável a partir de código-objeto.
 Depurar programas e encontrar eventuais erros de codificação.
-#Ementa: 
+Ementa: 
  Noções fundamentais sobre algoritmos:
   importância,
   diferenças entre algoritmo e programa,
